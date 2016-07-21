@@ -1732,12 +1732,18 @@ body:not(.post-template) .post-title {
     border-bottom: #bbc7cc 1px solid;
 }
 
-
+.poweredby {
+    display: block;
+    width: 50%;
+    float: right;
+    text-align: left;
+}
 
 .copyright {
     display: block;
-    width: 100%;
-    text-align: center;
+    width: 49%;
+    float: left;
+    text-align: right;
 }
 
 
