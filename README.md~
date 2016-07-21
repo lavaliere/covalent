@@ -1,6 +1,6 @@
 # covalent
 
-Tema para Ghost, dando protagonismo a las imágenes que acompañan cada post. Demo disponible en [www.gersonlazaro.com](http://www.gersonlazaro.com).
+Tema para Ghost, dando protagonismo a las imagenes que acompañan cada post. Demo disponible en [www.gersonlazaro.com](http://www.gersonlazaro.com).
 
 # Instalación
 
@@ -12,10 +12,6 @@ Tema para Ghost, dando protagonismo a las imágenes que acompañan cada post. De
 # Compatibilidad
 
 Este tema ha sido testeado en Ghost 0.8.0 (actual). No se garantiza compatibilidad con versiones anteriores, aunque es muy posible que funcione sin problemas (bienvenidas sean las pruebas que quieran realizar).
-
-# Optimización de imágenes
-
-Dado que el tema da prioridad en el inicio a las imágenes que acompañan cada post, es recomendable reducir el tamaño de las imagenes de portada de tus publicaciones. Para esto puedes usar [Compressor.io](https://compressor.io/) que reduce el peso de las imagenes sin perder calidad.
 
 # Contacto
 
