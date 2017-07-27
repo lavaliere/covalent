@@ -11,10 +11,10 @@ A theme for the Ghost blogging platform, forked from Covalent. Demo available on
 # Changes
 * Streamlined into resume-friendly format by:
 
-** Removing Disqus integration
+	* Removing Disqus integration
 
-** Removing date stamps 
+	* Removing date stamps 
 
-** Removing "blog" text previews
+	* Removing "blog" text previews
 
-** Removed subscribe options
+	* Removed subscribe options
