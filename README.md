@@ -1,4 +1,4 @@
-# covalent
+# Covalent theme for resumes
 
 A theme for the Ghost blogging platform, forked from Covalent. Demo available on [www.tracykennedy.io](http://www.tracykennedy.io).
 
@@ -17,4 +17,4 @@ A theme for the Ghost blogging platform, forked from Covalent. Demo available on
 
 	* Removing "blog" text previews
 
-	* Removed subscribe options
+	* Removing "blog" subscribe options
