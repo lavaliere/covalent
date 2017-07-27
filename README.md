@@ -4,9 +4,9 @@ A theme for the Ghost blogging platform, forked from Covalent. Demo available on
 
 # Install
 
-* Download the zip file of this repo
-* Upload to Ghost as a custom theme and restart
-* Under "Settings", select this theme.
+* Download the zip file in this repo
+* Navigate to the admin console in your Ghost instance
+* Go to "Settings", scroll to the bottom of the page, then upload and select "covalent resume" as your theme
 
 # Changes
 * Streamlined into resume-friendly format by:
